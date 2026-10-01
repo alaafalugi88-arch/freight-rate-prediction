@@ -1,0 +1,8 @@
+# Verified environment (Python 3.12.3). pandas<3 to match the assessment's original requirement (pandas>=2.0,<3).
+pandas==2.3.3
+numpy==2.5.3
+scikit-learn==1.8.0
+lightgbm==4.7.0
+matplotlib==3.11.2
+# Only needed for the CatBoost experiments (02_tree_experiments.py --part cat / round3):
+catboost==1.2.10

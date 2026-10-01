@@ -1,0 +1,3 @@
+model,rows,MAE,RMSE,MedAE
+F,4853,106.17,645.31,30.69
+reference_B+C,4853,105.26,645.24,29.05

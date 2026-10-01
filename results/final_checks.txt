@@ -1,0 +1,8 @@
+[ok] frozen F reproduces saved development predictions, window 2025-07 (max diff 1.09e-11)
+[ok] frozen F reproduces saved development predictions, window 2025-08 (max diff 5.28e-11)
+[ok] December path: full F, Bmi and C identical to the normal path, window 2025-05 (9696 rows)
+[ok] December path: full F, Bmi and C identical to the normal path, window 2025-06 (9695 rows)
+[ok] December path: full F, Bmi and C identical to the normal path, window 2025-07 (9671 rows)
+[ok] December path: full F, Bmi and C identical to the normal path, window 2025-08 (9429 rows)
+[ok] fill rule: training day 2025-01-06 and evaluation day 2025-08-04 without index -> flag=1 and fill=1.16725 (median of training daily means); other days flag=0; absent date handled; predictions finite and positive
+[ok] December template: coordinates for 31/31 rows, daily index for 31/31 days from validation features
